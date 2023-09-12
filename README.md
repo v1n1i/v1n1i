@@ -1,4 +1,4 @@
 ###  Olá 👋
 
 Sou estudante de pensamento computacional
-Gosto de nada
+ e não gosto de nada em especial
